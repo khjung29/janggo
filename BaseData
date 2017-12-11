@@ -11,9 +11,11 @@
       "type" : "0",
       "typecnt" : "0",
       "typenames" : [""],
-      "url" : "http://m.post.naver.com/async/",
+      "url" : "http://m.post.naver.com/my/series/detail/",
       "searchUrl" : "http://m.post.naver.com/search/authorPost/",
-      "postId" : "19357942",
+      "postId" : "11773044",
+      "memberNo" : "11773044",
+      "seriesNo" : "122882",
       "item" : [
           { "title" : "", "id" : "", "img" : "", "sort" : "1"}
       ]
