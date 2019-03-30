@@ -3,7 +3,6 @@
     {
       "title" : "냉장고를 부탁해 다모아",
       "fbNativeInterval" : "3",
-      "fbNativeReload" : "true",
       "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
